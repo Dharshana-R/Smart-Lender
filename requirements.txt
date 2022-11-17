@@ -1,6 +1,6 @@
 Flask
 Pandas
-Pickle
+pickle
 Requests
 Numpy
 OS
