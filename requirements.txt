@@ -2,6 +2,5 @@ Flask
 Pandas
 Numpy
 Config
-ibm_boto3
 pickle
 Requests
