@@ -1,8 +1,6 @@
 Flask
 Pandas
 Numpy
-os
-types
 Config
 ibm_boto3
 pickle
