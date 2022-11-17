@@ -1,0 +1,11 @@
+Library Requirements List:
+
+1. Flask
+2. Pandas
+3. Pickle
+4. Requests
+5. Numpy
+6. OS
+7. types
+8. config
+9. ibm_boto3
