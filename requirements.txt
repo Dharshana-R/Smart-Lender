@@ -1,9 +1,9 @@
 Flask
 Pandas
-pickle
-Requests
 Numpy
 OS
 types
-config
+Config
 ibm_boto3
+pickle
+Requests
