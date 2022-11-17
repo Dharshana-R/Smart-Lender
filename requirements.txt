@@ -1,7 +1,7 @@
 Flask
 Pandas
 Numpy
-OS
+os
 types
 Config
 ibm_boto3
